@@ -21,6 +21,9 @@
     <ClInclude Include="mos6502.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="mem.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="gfx.cpp">
@@ -30,6 +33,9 @@
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="mos6502.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="mem.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

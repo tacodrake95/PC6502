@@ -116,12 +116,14 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClInclude Include="gfx.h" />
+    <ClInclude Include="mem.h" />
     <ClInclude Include="mos6502.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="gfx.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="mos6502.cpp" />
+    <ClCompile Include="mem.cpp" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
